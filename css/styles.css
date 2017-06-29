@@ -1,0 +1,28 @@
+.header {
+  border-top: 2px solid black;
+  text-align: center;
+  font-size: 40px;
+  border-bottom: 2px solid black;
+  font-family: fantasy;
+}
+
+.special {
+  font-style: italic;
+  font-size: 30px;
+}
+
+.main {
+  font-family: cursive;
+  margin-top: 150px;
+  text-align: center;
+}
+
+.about {
+  font-family: monospace;
+  margin-top: 150px;
+  text-align: center;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
